@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Dario-Bastos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dario-Bastos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dario-Bastos&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dario-Bastos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dario-Bastos&layout=compact&langs_count=6&theme=blue-green"/>
 
 </div>
 <div style="display: inline_block"><br>
